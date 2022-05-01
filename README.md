@@ -1,5 +1,5 @@
 # Sentiment Analysis with the Yelp Dataset
-This repo contains the code and report for HKUST COMP4332 project 1, which is using the data from the [Yelp Dataset](https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset) to predict the 'stars' based on the reviews provided by the users, here only 'texts' is used.
+This repo contains the code and report for HKUST COMP4332 project 1, which is using the data from the [Yelp Dataset](https://www.yelp.com/dataset) to predict the 'stars' based on the reviews provided by the users, here only 'texts' is used.
 
 ## Models
 The metrics to be used to compare among models are macro-f1 score and accuracy.
